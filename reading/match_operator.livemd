@@ -193,7 +193,7 @@ flowchart LR
 ```
 
 For example, a variable `hello` with the value `"world"` would store the string
-`"world"` somewhere in **memory**. **memory** is a hardware component on the computer.
+`"world"` somewhere in **memory**. **Memory** is a hardware component on the computer.
 You may have heard of **RAM** (Random Access Memory).
 
 ```mermaid
